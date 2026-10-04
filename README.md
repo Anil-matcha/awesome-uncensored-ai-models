@@ -9,7 +9,8 @@
 ## Related Projects
 
 - [awesome-uncensored-llms](https://github.com/Anil-matcha/awesome-uncensored-llms) — Detailed language-model catalog, with open-weight and hosted entries separated.
-- [uncensored-coding-models](https://github.com/Anil-matcha/uncensored-coding-models) — Reproducible local coding tasks and separate scoring for code quality and refusal behavior.
+- [uncensored-coding-models](https://github.com/Anil-matcha/uncensored-coding-models) — Muapi-hosted coding-model benchmark, with Codex, Claude Code, and OpenCode setup guides.
+- [awesome-uncensored-ai-agents](https://github.com/Anil-matcha/awesome-uncensored-ai-agents) — setup and safety guidance for using tool-capable models in general-purpose agents.
 - [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) — Detailed image-generation and image-editing catalog.
 - [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) — Detailed video-generation and video-editing catalog.
 
